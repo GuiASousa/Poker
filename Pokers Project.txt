@@ -1,0 +1,30 @@
+
+
+	/*Regras de Poker: 
+	
+	Tekas Hold'n
+	
+		Programa de Pot
+	
+			Regras: Inserir Players, Dinheiro(Fichas variadas) Inicial, Inicio do Jogo, Definição de ganhador, Distribuição de dinheiro, histórico ds rounds
+			
+				Inserir Players:
+					Nesta fase o usuario escolhe quantos jogadores participaram do jogo e insere o seus respctivos nomes.
+					
+				Dinheiro Inicial:
+					Nesta fase o usuário define a quantidade de dinheiro de cada jogador sendo um valor padrão para todos, O jogador escolhe a distribuição das suas fichas ou 
+					escolhe um variação padrão do sistemas. Nesta mesma fase o usuario irá definir o valor para o Big Blind.
+					
+				Inicio do Jogo: 
+					Nesta fase o usuário irá escolher o seu respectivo lugar na UI de 2 a 10 players, em seguida o programa usará uma função random para pré definir o Dealer,
+					o programa irá debitar o valor inicial pré definido do Big Blind e do Small Blind e em seguida irá perguntar as apostas do jogadores restantes e as acumular em um pot
+					e um botão de fim de rounds irá encerrar o início do jogo. a little
+					
+				Demais Rounds:
+					o programa usará uma função sequencial para pré definir o Dealer, o progra irá debitar o valor inicial pré definido do Big Blind e do Small Blind 
+					e em seguida irá perguntar as apostas do jogadores restantes e as acumular em um pot, por fim um botão de "fim de rounds" irá encerrar o início do jogo.
+					
+				Definição do Ganhador:
+					Nesta fase o usuário irá definir o vencedor sendo 1 ou mais vencedores, o valor acumulado no pot
+				
+	
