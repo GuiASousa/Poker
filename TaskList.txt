@@ -1,0 +1,18 @@
+         Tasks list
+
+* Desenvolver front-end
+	* Desenvolver telas alpha
+	* Desenvolver telas beta
+	* Desenvolver telas versão oficial
+
+* Planejamento da lógica funcional
+	* Planejar escopo (Concluído)
+	* Planejar lógica em framework escolhido
+
+* Desenvolver programa
+	* Desenvolver lógica inicial
+
+
+* Planejamento de métodos de distribuição
+	* Exportação de Mobile
+ 
